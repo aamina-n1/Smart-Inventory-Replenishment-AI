@@ -1,7 +1,6 @@
 """
 Smart Inventory Replenishment AI — FastAPI Backend
 Endpoints: /predict, /replenishment-plan, /ai-insight, /dashboard-summary
-Author: Aamina Nooraiyeen
 """
 
 from fastapi import FastAPI, HTTPException, Query
