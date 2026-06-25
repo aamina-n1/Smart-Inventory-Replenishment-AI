@@ -1,7 +1,6 @@
 """
 Smart Inventory Replenishment AI
 Demand Forecasting Engine — XGBoost + Feature Engineering
-Author: Aamina Nooraiyeen
 """
 
 import pandas as pd
